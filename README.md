@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hey! I'm *Shreyash* *Choudhary* ~~;~~
 
-<!--
-**shreyashcode/shreyashcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm 
+- `An Android Developer`  **//passion**
+- `A Competitive-programmer` 
+- `A Graphic designer` 
 
-Here are some ideas to get you started:
+## About me!
+- I love developing [ANDROID APPS](https://github.com/shreyashcode?tab=repositories) that solves some problem.
+- I'm a specialist @[Codeforces](https://codeforces.com/profile/shreyash1488)
+- I'm 4[](https://emojipedia.org/star/)⭐ @[CodeChef](https://www.codechef.com/users/shreyash1488)
+- Reach me @[LinkedIn](https://www.linkedin.com/in/shreyashajaychoudhary/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
