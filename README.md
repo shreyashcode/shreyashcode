@@ -1,9 +1,9 @@
 # 👋 Hey! I'm *Shreyash* *Choudhary* ~~;~~
 
 ## I'm 
-- `An Android Developer`  **//passion**
-- `A Competitive-programmer` 
-- `A Graphic designer` 
+- An **Android Developer**  *//passion*
+- A **Competitive-programmer**
+- A **Graphic designer**
 
 ## About me!
 - I love developing [ANDROID APPS](https://github.com/shreyashcode?tab=repositories) that solves some problem.
