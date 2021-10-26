@@ -11,3 +11,14 @@
 - I'm 4[](https://emojipedia.org/star/)⭐ @[CodeChef](https://www.codechef.com/users/shreyash1488)
 - Reach me @[LinkedIn](https://www.linkedin.com/in/shreyashajaychoudhary/)
 
+
+##  👨‍💻 My work!
+![enter image description here](https://media-exp1.licdn.com/dms/image/C5616AQGQtNf-1uotgw/profile-displaybackgroundimage-shrink_350_1400/0/1625845462622?e=1640822400&v=beta&t=7jnZU0yCJ0McLsqAR_Wv0JlTWfDdMENkn3eG4jZ1R4s)
+
+## Ask me about!
+- Android development (Kotlin, Java)
+- Android Jetpack components (MVVM, RoomDB)
+- C++ (Problem solving)
+- Data Structures and Algorithm
+- Adobe illustrator, Adobe XD, Figma
+- UI/UX 
