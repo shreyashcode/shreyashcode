@@ -8,12 +8,22 @@
 ## About me!
 - I love developing [ANDROID APPS](https://github.com/shreyashcode?tab=repositories) that solves some problem.
 - I'm a specialist @[Codeforces](https://codeforces.com/profile/shreyash1488)
-- I'm 4[](https://emojipedia.org/star/)⭐ @[CodeChef](https://www.codechef.com/users/shreyash1488)
+- I'm 5[](https://emojipedia.org/star/)⭐ @[CodeChef](https://www.codechef.com/users/shreyash1488)
 - Reach me @[LinkedIn](https://www.linkedin.com/in/shreyashajaychoudhary/)
 
+## Achievements
+
+- ICPC 2022 Regionalist, one of the top 70 teams from India. 
+- Participated in 150+ coding contests in last 3 years.
+- Indian Govt. Toycathon (Hackathon) Finalist. Qualified GATE-2022.
+- Secured **155th rank among 2975 participants** in the CodeChef march cook-off contest.
+- Secured **314th rank among 10,000+ participants** in Codeforces Round #805 contest.
+- Solved over **1600 DSA problems** on LeetCode, CodeChef, Codeforces, and GeeksForGeeks combined.
 
 ##  👨‍💻 My work!
-![enter image description here](https://media-exp1.licdn.com/dms/image/C5616AQGQtNf-1uotgw/profile-displaybackgroundimage-shrink_350_1400/0/1625845462622?e=1640822400&v=beta&t=7jnZU0yCJ0McLsqAR_Wv0JlTWfDdMENkn3eG4jZ1R4s)
+
+  <img src="/Group 1709.png" width="1000" />
+
 
 ## Ask me about!
 - Android development (Kotlin, Java)
