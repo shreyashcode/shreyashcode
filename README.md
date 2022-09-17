@@ -21,10 +21,8 @@
 - Solved over **1600 DSA problems** on LeetCode, CodeChef, Codeforces, and GeeksForGeeks combined.
 
 ##  👨‍💻 My work!
-
-  <img src="/Group 1709.png" width="1000" />
-
-
+  <img src="/Group 17091.png" width="1000" />
+  
 ## Ask me about!
 - Android development (Kotlin, Java)
 - Android Jetpack components (MVVM, RoomDB)
